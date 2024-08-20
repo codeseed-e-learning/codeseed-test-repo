@@ -1,0 +1,7 @@
+git init 
+git remote add origin <repo name>
+git add "filename"
+git commit -m "message"
+git branch -M main
+git push origin main 
+
